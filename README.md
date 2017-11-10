@@ -1,4 +1,4 @@
-Code Guide
+#  Code Guide
 
 Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. It's not the end-all be-all, but it's a start.
 
