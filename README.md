@@ -42,4 +42,4 @@ Have a translation you'd like to link to? Open a pull request to add it here. Be
 
 - 对于移动端的应用，jQuery Mobile, Foundation 依然是轻量级选择，Dojo Mobile 和 Sencha Touch 会为您提供更加强大的功能。同时，您还可以与 PhoneGap 和 Cordova 框架结合使用，利用 Web 的技术开发移动应用。不过这种混合式开发模式兴起时间并不长，还在不断发展中。
 
-<3
+
