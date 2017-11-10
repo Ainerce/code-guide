@@ -6,7 +6,7 @@ Code Guide is a project for documenting standards for developing flexible, durab
 
 ---
 
-# License
+## License
 
 Released under MIT by, and copyright 2014, @mdo.
 
