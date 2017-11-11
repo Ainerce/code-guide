@@ -1,5 +1,5 @@
 #  Code Guide
-//[Ainerce](https://github.com/Ainerce/code-guide/blob/gh-pages/2017101619161.png)
+[Ainerce](https://github.com/Ainerce/code-guide/blob/gh-pages/2017101619161.png)
 <p align="center">
   <img src="https://github.com/Ainerce/code-guide/blob/gh-pages/2017101619161.png" alt="logo by Ainerce"/>
 </p>
